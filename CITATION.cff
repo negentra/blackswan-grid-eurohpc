@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Cite this synthetic EuroHPC compute-readiness fixture if reused."
+title: "BLACKSWAN-GRID: sanitized connected-grid temporal compute fixture"
+type: software
+authors:
+  - name: "Negentra Yazılım ve Oyun Teknolojileri A.Ş."
+version: 0.1.0
+repository-code: https://github.com/negentra/blackswan-grid-eurohpc

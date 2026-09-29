@@ -1,0 +1,14 @@
+{
+  "evidence_role": "DETERMINISTIC_SYNTHETIC_COMPUTE_FIXTURE",
+  "model": "TemporalGraphKernel",
+  "precision": "FP32",
+  "seed": 19092026,
+  "sequence_steps_for_reference_smoke": 2,
+  "scales": {
+    "S1": {"nodes": 96, "edges": 110, "width": 64, "layers": 4, "parameters": 67649},
+    "S2": {"nodes": 384, "edges": 440, "width": 128, "layers": 6, "parameters": 332161},
+    "S3": {"nodes": 1024, "edges": 1200, "width": 256, "layers": 8, "parameters": 1582337}
+  },
+  "physical_solver_calls": 0,
+  "scientific_labels": 0
+}

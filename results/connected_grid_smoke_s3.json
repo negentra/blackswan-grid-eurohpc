@@ -1,0 +1,26 @@
+{
+  "asset_counts": {
+    "BESS": 17,
+    "EV": 36,
+    "PV": 28
+  },
+  "batch_size": 1,
+  "connected": true,
+  "device": "cpu",
+  "edge_features": 8,
+  "edges": 1200,
+  "evidence_role": "SYNTHETIC_COMPUTE_SMOKE_NOT_SCIENTIFIC_EVALUATION",
+  "gradient_finite": true,
+  "inference_finite": true,
+  "loss": 0.9581943154335022,
+  "model_parameters": 1582337,
+  "node_features": 12,
+  "nodes": 1024,
+  "scale": "S3",
+  "seed": 19092026,
+  "sequence_steps": 2,
+  "status": "PASS",
+  "topology_sha256": "05203afb98d548169e015b713a4b5ee110ef57e50077f92e524c114590329bc5",
+  "torch_version": "2.8.0+cpu",
+  "transformers": 11
+}

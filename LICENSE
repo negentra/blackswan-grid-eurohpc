@@ -1,0 +1,10 @@
+Copyright (c) 2026 Negentra Yazılım ve Oyun Teknolojileri A.Ş.
+All rights reserved.
+
+This repository is published to support transparency, reproducibility and technical evaluation of the BLACKSWAN-GRID research prototype in connection with the EuroHPC AI Factory Playground application.
+
+Permission is granted to EuroHPC JU, the relevant hosting entity, technical reviewers and project evaluators to inspect, execute and reproduce the published benchmark code solely for evaluation, technical assessment and project-support purposes.
+
+No permission is granted for commercial use, redistribution, sublicensing, incorporation into commercial products, or creation and distribution of derivative works without prior written permission from Negentra Yazılım ve Oyun Teknolojileri A.Ş.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.

@@ -1,0 +1,4 @@
+# Install a platform-appropriate official PyTorch 2.8.0 wheel first.
+# See docs/REPRODUCIBILITY.md for CPU and CUDA index commands.
+torch==2.8.0
+numpy==2.4.6
